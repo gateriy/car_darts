@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0421\u002B\u002B\\Project\\VSC_prj_netologiy\\car_darts\\Game_v1\\AutoDarts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10D111D9-E2F2-4C4F-97E6-29AB0FC74B59}|AutoDarts.vcxproj|D:\\\u0421\u002B\u002B\\Project\\VSC_prj_netologiy\\car_darts\\Game_v1\\AutoDarts\\AutoDarts.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10D111D9-E2F2-4C4F-97E6-29AB0FC74B59}|AutoDarts.vcxproj|solutionrelative:AutoDarts.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0421\u002B\u002B\\Project\\VSC_prj_netologiy\\git_cpp\\Task_1_(file)\\Task_1_(file).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 290,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task_1_(file).cpp",
+              "DocumentMoniker": "D:\\\u0421\u002B\u002B\\Project\\VSC_prj_netologiy\\git_cpp\\Task_1_(file)\\Task_1_(file).cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\git_cpp\\Task_1_(file)\\Task_1_(file).cpp",
+              "ToolTip": "D:\\\u0421\u002B\u002B\\Project\\VSC_prj_netologiy\\git_cpp\\Task_1_(file)\\Task_1_(file).cpp",
+              "RelativeToolTip": "..\\..\\..\\git_cpp\\Task_1_(file)\\Task_1_(file).cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-06T17:37:03.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoDarts.cpp",
+              "DocumentMoniker": "D:\\\u0421\u002B\u002B\\Project\\VSC_prj_netologiy\\car_darts\\Game_v1\\AutoDarts\\AutoDarts.cpp",
+              "RelativeDocumentMoniker": "AutoDarts.cpp",
+              "ToolTip": "D:\\\u0421\u002B\u002B\\Project\\VSC_prj_netologiy\\car_darts\\Game_v1\\AutoDarts\\AutoDarts.cpp",
+              "RelativeToolTip": "AutoDarts.cpp",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAiwIcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-06T17:35:09.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 85,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
